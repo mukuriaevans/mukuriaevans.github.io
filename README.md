@@ -1,4 +1,4 @@
-# mukuriaevans.github.io
+# mukuriaevans.github.io/BMI-calculator
  BMI Calculator
 #### Intended Function not working
 Since github.io doesn't support Server side scripting language. The page has been rendered in html only.
